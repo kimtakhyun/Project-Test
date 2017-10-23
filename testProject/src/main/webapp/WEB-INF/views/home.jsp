@@ -13,5 +13,6 @@
 <P>  test1 </P>
 <P>  test2!!! </P>
 <P>  test3@@@ </P>
+<P>  test4$$$ </P>
 </body>
 </html>
