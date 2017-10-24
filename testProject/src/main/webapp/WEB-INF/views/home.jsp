@@ -10,10 +10,7 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<P>  test1 </P>
-<P>  test1 branch </P>
-<P>  master branch 수정 </P>
-<P>  ~~~~~ </P>
+<P>  print master </P>
 
 </body>
 </html>
